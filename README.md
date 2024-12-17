@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Principles of Integrated Engineering Fall 2024
 
 Students enrolled in the Principles of Integrated Engineering course at Olin College maintain public facing websites for team projects for three main reasons:
@@ -37,3 +38,7 @@ Your final project site is required to contain the following elements:
 ## Logistics
 
 Although we have used the GitHub platform for hosting webpages in recent PIE offerings (and other classes at Olin), we are aware that having students use GitHub Pages comes with its share of tradeoffs. We are committed to iterating our instructions for setting up and updating GitHub pages as necessary to ensure that more than one member of every project team can shape their team’s page. We do not require all team members to use their GitHub accounts, but it is important that each team member can contribute to the website should they need to. It is prudent for more than one team member to be versed in maintaining a team project page using GitHub pages to prevent possible bottlenecks should a team’s designated website guru be unable to update the team page for any reason during a semester.
+=======
+# team-page-template
+this template gives you a starting point for Olin courses such as PIE or UXD that have teams making project sites
+>>>>>>> 0c70feaa3a4ec3e80c97ac942c8ded3ff5f37cf2
